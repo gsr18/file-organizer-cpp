@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="FileOrganizer.vcxproj" Id="a09c3692-86d0-4273-a27d-08f18ca24f12" />
+</Solution>
